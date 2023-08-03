@@ -1,3 +1,5 @@
+
+
 package com.example.demo;
 
 import org.testng.annotations.Test;
@@ -17,6 +19,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 public class TestAadharApplication {
+	/*
 	
 	 WebDriver wd=null;
 	 @BeforeTest
@@ -124,4 +127,8 @@ public class TestAadharApplication {
 	   
 	   Reporter.log("Delete Aadhar Tested Successfully!");
    }
+   
+   */
 }
+
+
